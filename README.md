@@ -3,29 +3,28 @@
 **Junior Software Engineer** · C# / .NET · Backend  
 📍 Madrid, Spain
 
-I build backend systems with **C# and ASP.NET Core**.
-
+I build backend systems with **C# and ASP.NET Core**.  
 Currently expanding my knowledge of **cloud architecture** with Azure and AWS, and **Infrastructure as Code** with Terraform. I’m also preparing for the **AWS Certified Solutions Architect – Associate (SAA-C03)** exam in September 2026.
 
 ---
 
 ## 🎾 TennisLodge
 
-I’ve spent most of my life in tennis — playing since I was six, competing for years, and coaching since 19.
+I’ve spent years competing and coaching in tennis.
 
-That experience gave me a very specific problem to work on: travelling from tournament to tournament is unpredictable. Matches get postponed, tournaments finish early, flights don’t line up, and sometimes you need somewhere to stay for a few extra days.
+Travelling from tournament to tournament is unpredictable: matches get postponed, tournaments finish earlier than expected, flights don’t line up, and sometimes you need somewhere to stay for a few extra days.
 
 **TennisLodge is my attempt to solve that problem.**
 
 The idea is to connect tennis players, coaches and hosts around tournaments, making it easier to find or offer accommodation while creating a place to eventually share travel experiences, recommendations and local knowledge.
 
-I’m exploring the idea through two versions:
+I’ve built the idea through two implementations:
 
 ### [TennisLodge — ASP.NET Core](https://github.com/KristianaStefanova/TennisLodge)
 
 *SoftUni ASP.NET Advanced final project.*
 
-A layered ASP.NET Core application where I implemented the repositories, services, Entity Framework Core, ASP.NET Identity, AutoMapper, dependency injection and unit/integration testing.
+A layered ASP.NET Core application where I implemented repositories, services, Entity Framework Core, ASP.NET Identity, AutoMapper, dependency injection and unit/integration testing.
 
 `C#` `ASP.NET Core` `EF Core` `SQL Server` `ASP.NET Identity` `NUnit`
 
@@ -100,10 +99,9 @@ The project is connected to GitHub Actions with workflows for:
 
 ## ☁️ Currently Learning
 
-**AWS Certified Solutions Architect – Associate (SAA-C03)**  
-Exam scheduled for **September 2026**.
+**AWS Certified Solutions Architect – Associate (SAA-C03)**
 
-Currently deepening my understanding of cloud architecture, infrastructure and deployment.
+Exam scheduled for **September 2026**.
 
 ---
 
@@ -111,7 +109,7 @@ Currently deepening my understanding of cloud architecture, infrastructure and d
 
 I recently completed an **IT Strategy internship at KPMG’s CIO Advisory**, where I coordinated and tracked testing activities from unit through end-to-end, working with developers, architects and DevOps teams and using Jira to manage progress and issues.
 
-Before software engineering, I spent years competing and coaching in tennis — an experience that shaped my discipline, persistence and ability to adapt.
+Before software engineering, I spent years competing and coaching in tennis.
 
 ---
 
@@ -125,4 +123,4 @@ Before software engineering, I spent years competing and coaching in tennis — 
 
 ## 📫 Let’s Connect
 
-[LinkedIn](https://www.linkedin.com/in/kristiana-stefanova-stefanova-20619a124/) · christiana.stefanova@gmail.com
+[LinkedIn](https://www.linkedin.com/in/kristiana-stefanova-stefanova-20619a124/) · [christiana.stefanova@gmail.com](mailto:christiana.stefanova@gmail.com)
