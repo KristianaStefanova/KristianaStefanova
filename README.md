@@ -1,11 +1,11 @@
 # Kristiana Stefanova
 
 **Junior Software Engineer** · C# / .NET · Backend  
-📍 Spain
+📍 Madrid, Spain
 
 I build backend systems with **C# and ASP.NET Core**.
 
-Currently expanding my knowledge of **cloud architecture** with Azure and AWS, and Infrastructure as Code with Terraform. I’m also preparing for the **AWS Certified Solutions Architect – Associate (SAA-C03)** exam in September 2026.
+Currently expanding my knowledge of **cloud architecture** with Azure and AWS, and **Infrastructure as Code** with Terraform. I’m also preparing for the **AWS Certified Solutions Architect – Associate (SAA-C03)** exam in September 2026.
 
 ---
 
@@ -25,13 +25,13 @@ I’m exploring the idea through two versions:
 
 *SoftUni ASP.NET Advanced final project.*
 
-A layered ASP.NET Core application with repositories, services, Entity Framework Core, ASP.NET Identity, AutoMapper, dependency injection and unit/integration testing.
+A layered ASP.NET Core application where I implemented the repositories, services, Entity Framework Core, ASP.NET Identity, AutoMapper, dependency injection and unit/integration testing.
 
 `C#` `ASP.NET Core` `EF Core` `SQL Server` `ASP.NET Identity` `NUnit`
 
 ### [TennisLodge-Angular](https://github.com/KristianaStefanova/TennisLodge-Angular)
 
-*Full-stack version · 🚧 In development*
+*🚧 In development*
 
 An Angular frontend connected to a Node.js / Express / MongoDB REST API.
 
@@ -43,20 +43,34 @@ The current version includes authentication, tournament browsing, accommodation 
 
 ## 🛠️ Tech Stack
 
-**Backend**  
-`C#` `ASP.NET Core` `Web API` `Entity Framework Core` `LINQ` `ASP.NET Identity`
+**Backend**
 
-**Data**  
-`SQL Server` `MongoDB`
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 
-**Frontend**  
-`Angular` `TypeScript` `HTML/CSS` `Bootstrap` `Tailwind CSS`
+**Frontend**
 
-**Cloud & DevOps**  
-`Azure` `AWS` `Terraform` `Docker` `GitHub Actions` `CI/CD` `Linux`
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-**Testing & Tools**  
-`NUnit` `Unit & Integration Testing` `Git` `GitHub` `Swagger / OpenAPI`
+**Cloud & DevOps**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+
+**Testing & Tools**
+
+![NUnit](https://img.shields.io/badge/NUnit-25A162?logo=nunit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
 
 ---
 
@@ -70,7 +84,7 @@ ASP.NET Core application developed with my professor during my software engineer
 
 ### Azure Infrastructure with Terraform
 
-Infrastructure as Code project provisioning an Azure environment with Terraform.
+Infrastructure as Code project for provisioning Azure resources with Terraform and automating infrastructure workflows with GitHub Actions.
 
 The infrastructure includes:
 
@@ -111,4 +125,4 @@ Before software engineering, I spent years competing and coaching in tennis — 
 
 ## 📫 Let’s Connect
 
-[LinkedIn](https://www.linkedin.com/in/kristiana-stefanova-stefanova-20619a124/) · [GitHub](https://github.com/KristianaStefanova) · christiana.stefanova@gmail.com
+[LinkedIn](https://www.linkedin.com/in/kristiana-stefanova-stefanova-20619a124/) · christiana.stefanova@gmail.com
