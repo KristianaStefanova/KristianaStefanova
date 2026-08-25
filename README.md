@@ -107,9 +107,7 @@ Exam scheduled for **September 2026**.
 
 ## 👩‍💻 Professional Background
 
-I recently completed an **IT Strategy internship at KPMG’s CIO Advisory**, where I coordinated and tracked testing activities from unit through end-to-end, working with developers, architects and DevOps teams and using Jira to manage progress and issues.
-
-Before software engineering, I spent years competing and coaching in tennis.
+I recently completed an **IT Strategy internship at KPMG’s CIO Advisory**, supporting the coordination and tracking of a large-scale technology project. My work included testing activities, project documentation and reporting, with exposure to **DevOps, cloud architecture and technology delivery**, using Jira to organise and monitor project information.
 
 ---
 
